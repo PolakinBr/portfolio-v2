@@ -1,13 +1,15 @@
 body{
 
-    background-color: rgb(0, 119, 255)
+    background-color: rgba(0, 119, 255, 0.548)
 }
 
-.cabeçalho{
+.CABEÇALHO{
 
     background-color: rgb(0, 91, 175);
     text-align: center;
     height: 90px;
     text-shadow: 5px;
     background-size: auto;
+    align-items: center;
 }
+
